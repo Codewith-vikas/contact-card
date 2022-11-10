@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    border: 20px solid black;
+    width: 300px;
+    float: left;
+    background-color: gray;
+    outline-color: 2px solid white;
+    
+    
+
+}
+.info{
+    margin-top: -22px;
+    text-align: center;
+    padding: 17px;
+}
+.image{
+    border-color: 20px solid black;
+    
+    
+}
+.name{
+    padding: 11px;
+    font-size: 44px;
+
+}
+.detail{
+    padding: 11px;
+    color: aliceblue;
+
+}
+.education{
+    padding: 11px;
+
+}
+.connect{
+    padding: 11px;
+    background-color: black;
+   
+  
+
+}
+.vk{
+    text-decoration: none;
+    color: white;
+}
+.vk:hover{
+    background-color: gray;
+}
